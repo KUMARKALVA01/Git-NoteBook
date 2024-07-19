@@ -1,0 +1,7 @@
+git log --> check the commit logs
+git pull --> take the latest changes from the remote to local
+git stash --> temporary storage area
+git stash apply
+git stash list
+git stash clear
+
