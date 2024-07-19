@@ -1,0 +1,8 @@
+git add . / git add * / git add --a --> add a code the workspace to staging area
+git rm --cached filename / git restore --staged filename --> New files undo the code from staged to workspace
+git reset HEAD filename --> Existing files undo the code from staged to workspace
+git checkout -- filename --> undo the inside the file content/discard changes done in a file
+git commit -m "commit msg" --> commit the code from satged to locat repository
+git remote add origin URL --> this is used for first time
+git push -u origin master --> move the changes from locat to central
+
