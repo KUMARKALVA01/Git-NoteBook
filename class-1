@@ -5,6 +5,4 @@ git checkout -- filename --> undo the inside the file content/discard changes do
 git commit -m "commit msg" --> commit the code from satged to locat repository
 git remote add origin URL --> this is used for first time
 git push -u origin master --> move the changes from locat to central
-1
-2
-3
+
