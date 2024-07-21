@@ -4,4 +4,7 @@ git stash --> temporary storage area
 git stash apply --> back to working area
 git stash list
 git stash clear
+4
+5
+6
 
