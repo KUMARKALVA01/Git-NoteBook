@@ -1,4 +1,6 @@
-1
-2
-3
-
+git clone -b branchName uRL ---> create branch and clone also
+git branch -b branchName --> create and enter new branch
+git checkout branch
+git branch --> list the branches
+git branch -d branchName --> delete the branch name
+git merge other branchName and file also
